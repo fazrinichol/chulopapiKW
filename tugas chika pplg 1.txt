@@ -1,0 +1,30 @@
+
+TUTORIAL UPLOAD FILE KE GITHUB
+
+Sebelumnya apa Itu GitHub? apa Fungsinya? dan bagaimana tutorial membuatnya?
+
+A. PENGERTIAN
+ GitHub adalah website yang digunakan untuk menyimpan dan mengelola kode suatu project. Anda dapat membuat atau mengupload kode Anda ke server GitHub dan kemudian melakukan coding secara online.
+
+B. FUNGSI
+1. Memudahkan Kolaborasi Pengerjaan Project
+2. Mencegah Perubahan Kode yang Bisa Merusak Kode Asli
+3. Sebagai Portofolio Bagi Developer
+
+C. TUTORIAL MENGUPLOAD FILE KE GITHUB
+1. membuka chrome lalu ke website github.
+ 
+
+2. kemudian login dengan memasukan email atau membuat akun baru.
+3. melakukan verifikasi email sesuai petunjuk.
+4. login dan siapkan file yang akan kamu upload.
+5. setelah login, kamu klik star a project, kemudian akan ada tampilan seperti dibawah      ini :
+ 
+6. jika sudah dengan tampilan tersebut klik create a new repository
+7. kemudian pada tab create a new repository, masukan repository name sesuka kamu, setelah itu centang dan pilih initialize this repository with a README 
+ 
+
+8. lalu upload file, pilih file yang sudah anda siapkan sebelumnya, setelah teruploadnkamu bisa mengklik commit changes
+ 
+
+9. finish, kamu sudah bisa / berhasil mengupload file ke github.
